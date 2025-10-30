@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+[My resume in PDF](/files/Sassan%20Nourian%20Resume.pdf)
 
 SUMMARY
 ======
