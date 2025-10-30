@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+SUMMARY
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+I'm Sassan, a passionate game designer who loves to turn ideas into deep and immersive experiences.
+With hands-on expertise in C++, C#, and GDScript and using industry-standard engines like Unity and
+Godot, whether it's prototyping new mechanics, optimizing player flow, or building worlds from scratch,
+I'm eager to tackle any challenges.
+My approach blends analytical thinking with artistic vision, ensuring that every mechanic and
+environment serves the player's journey.
+I use git/GitHub, Trello, Microsoft office and other collaboration tools to communicate effectively with
+other team members.
+Let’s connect and build something extraordinary. 
 
-Work experience
+SKILLS
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Game & Level Design
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* System design
+* Level design
+* Gameplay design
+* Character design
+* Narrative design
+* UI/UX design
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Programming
+* C++
+* C#
+* GDScript
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Frameworks & Libraries
+* SDL
+* Boost
+* STL
+
+### Softwares & Technologies
+* Unity
+* Godot
+* Git
+* Microsoft office
+* Trello
+* Photoshop
+* Blender
+* Ableton
+* Visual Studio & Visual Studio Code
+
+### Leadership & Collaboration
+* Agile development (scrum & kanban)
+* Analytic problem solving (Root cause, TRIZ etc...)
+* Vision holder & Team Catalyst
