@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sassan Nourian - Portfolio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
