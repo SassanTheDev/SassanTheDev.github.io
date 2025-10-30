@@ -71,14 +71,16 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "Sassanthedev"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
+  Itch.io          : https://sassanthedev.itch.io/
+  Discord          : https://discordapp.com/users/sassanthedev
+  Reddit           : https://www.reddit.com/user/sassanthedev
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
