@@ -12,7 +12,7 @@ main:
     url: /projects/
 
   - title: "Resume"
-    url: /cv/
+    url: /resume/
     
   # - title: "CV"
   #   url: /cv-json/
