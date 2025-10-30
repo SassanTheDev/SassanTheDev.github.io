@@ -9,8 +9,7 @@ redirect_from:
 
 [My resume in PDF](/files/Sassan%20Nourian%20Resume.pdf)
 
-SUMMARY
-======
+## SUMMARY
 I'm Sassan, a passionate game designer who loves to turn ideas into deep and immersive experiences.
 With hands-on expertise in C++, C#, and GDScript and using industry-standard engines like Unity and
 Godot, whether it's prototyping new mechanics, optimizing player flow, or building worlds from scratch,
@@ -21,8 +20,7 @@ I use git/GitHub, Trello, Microsoft office and other collaboration tools to comm
 other team members.
 Let’s connect and build something extraordinary. 
 
-SKILLS
-======
+## SKILLS
 ### Game & Level Design
 
 * System design
