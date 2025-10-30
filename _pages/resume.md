@@ -56,3 +56,6 @@ Let’s connect and build something extraordinary.
 * Agile development (scrum & kanban)
 * Analytic problem solving (Root cause, TRIZ etc...)
 * Vision holder & Team Catalyst
+
+
+If you'd like a copy of my resume, you can [download it here](/files/Sassan%20Nourian%20Resume.pdf).
