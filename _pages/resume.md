@@ -45,6 +45,7 @@ Let’s connect and build something extraordinary.
 * Unity
 * Godot
 * Git
+* Makrdown
 * Microsoft office
 * Trello
 * Photoshop
