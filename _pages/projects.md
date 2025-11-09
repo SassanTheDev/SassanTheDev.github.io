@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
   - /projects
 ---
-These are the projects I've made as practice to hone my skills and apply what I learned into actual projects. Here's some of them.
-
 ## Highborne: Legions
 ![Highborne: legions](/images/HGIHBORNE_LEGION.png)
 
