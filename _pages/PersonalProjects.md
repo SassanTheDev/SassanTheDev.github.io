@@ -4,8 +4,6 @@ title: "Personal projects"
 permalink: /projects/personal-projects/
 author_profile: true
 ---
-These are some practice projects I've made inspired by popular arcade games I used to play before, each with a twist.
-
 ## Quick pong
 "Quick Pong" is a single-player arcade game inspired by the timeless classic, Pong. It aims to deliver a fast-paced, skill-based experience by introducing two core mechanics that elevate the challenge and replayability. The unique selling proposition (USP) lies in its progressively increasing ball speed with each paddle hit, which resets upon scoring, and a dynamic ball deflection system where the angle of rebound is determined by the exact point of contact on the paddle. This creates a more nuanced and demanding gameplay loop than its predecessor, focusing on precision and quick reflexes.
 ![Quick pong](/images/QUICK_PONG_SCREENSHOT.png)
