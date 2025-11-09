@@ -4,7 +4,6 @@ title: "Personal projects"
 permalink: /projects/personal-projects/
 author_profile: true
 ---
-# Personal projects
 These are some practice projects I've made inspired by popular arcade games I used to play before, each with a twist.
 
 ## Quick pong
