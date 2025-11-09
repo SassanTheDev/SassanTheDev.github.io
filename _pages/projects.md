@@ -25,4 +25,4 @@ Mist Realm (Primary Title) is a 2D side-scrolling action RPG that blends tight, 
 Space shooter(Working Title) is a fast-paced 2D arcade space shooter where players pilot a starfighter through hostile sectors of space. Inspired by classic bullet hell games, players dodge intricate enemy patterns, collect power-ups, and upgrade their arsenal to survive escalating waves of alien threats.
 
 ## Practice projects
-Check out the practice projects in **[here](/projects/PersonalProjects.md)**.
+Check out the practice projects in **[here](/projects/personal-projects)**.
