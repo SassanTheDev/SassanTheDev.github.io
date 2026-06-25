@@ -22,8 +22,8 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-  - title: "Professional projects"
-    url: /professional-projects/
+  # - title: "Professional projects"
+  #   url: /professional-projects/
 
   - title: "Personal projects"
     url: /personal-projects/
