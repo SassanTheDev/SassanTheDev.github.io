@@ -3,6 +3,10 @@ title: "Relay rush"
 permalink: /personal-projects/relay-rush
 author_profile: true
 ---
+# Gameplay
+In relay rush you play as a courier robot named C-55, you move your character by pressing arrow keys to dodge the bullets and projectiles while monitoring your energy. Each tile requires different amount of energy and each projectile deals different amount of damage. I designed the movement of courier to be grid based rather than continuous for couple of reasons:
+1. It would be an interesting interaction with projectiles that don't snap to grid.
+2. It allows for levels to be designed with grids in mind. by limiting the movement of the player to limited grids, you can create fun challenges for the player.
 # Pre-production: Ideation & concept
 As a solo dev in Relay rush, I started with concepting and idea iteration, first the game was about a hero in medieval high fantasy that searches dungeons for loots while dodging goblins throwing rocks at them, but evantually I changed the theme to sci-fi and created C-55.
 after some iteration I created some sketch of the gameplay and maps then using Godot, I created prototypes to validate my assumptions.
@@ -20,6 +24,8 @@ After writing GDD, I created a project schedule using trello and excel, writing 
 # Production
 I started working on the contents based on the plan schedule I made, of course it needed some adjustments and the time estimated wasn't always correct but I could manage to finish this project.
 I used Libresprite to create all of the assets and Godot to program this project.
+During pre-production stage I was going to make the heavy package missions to slow down the courier as well, but then that would require me to change all the stats of turrets and mortars so I only changed the amount of energy it would require.
+I found an interesting way to detect walls and other collision rather than using the usual collision detection in Godot, I used custom data on the tile map layer node and checked whether the target position of the character will be on a walkable tile or not, this way I could easily create the level.
 
 # Release
 I uploaded the game on itch and you can play it on the browser: [Relay rush](https://sassanthedev.itch.io/relay-rush)
