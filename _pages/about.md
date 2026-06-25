@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Sassan**, a game designer focused on creating immersive and memorable experiences for players. With hands-on expertise in gameplay design, level design, player progression, programming, asset creation and production workflows, I developed bunch of personal projects as a solo dev from concept to completion so far, the newest one is [relay rush](personal-projects/relay-rush)
+I'm **Sassan**, a game designer focused on creating immersive and memorable experiences for players. With experience in gameplay design, level design, player progression, programming, asset creation and production workflows, I developed bunch of personal projects as a solo dev from concept to completion so far, the newest one is [relay rush](personal-projects/relay-rush)
 
 My multidisciplinary background allows me to collaborate effectively with artists, programmers, and producers while understanding the technical and creative challenges of each discipline.
 
