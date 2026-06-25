@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Sassan**, a game designer focused on gameplay and system design. With experience in gameplay design, level design, player progression, programming, asset creation and production workflows, I developed bunch of personal projects as a solo dev from concept to completion so far, the newest one is [relay rush](personal-projects/relay-rush)
+I'm **Sassan**, a game designer focused on gameplay and system design. With experience in level design, player progression, UI/UX, Quest and narrative design, programming, asset creation and production workflows. My multidisciplinary background allows me to collaborate effectively with artists, programmers, and producers while understanding the technical and creative challenges of each discipline. 
 
-My multidisciplinary background allows me to collaborate effectively with artists, programmers, and producers while understanding the technical and creative challenges of each discipline.
+I developed bunch of personal projects as a solo dev from concept to completion so far, the newest one is [relay rush](personal-projects/relay-rush)
+
+
 
 
 
