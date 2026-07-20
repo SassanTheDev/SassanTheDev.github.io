@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Sassan**, a game designer focused on gameplay and system design. With experience in level design, player progression, UI/UX, Quest and narrative design, programming, asset creation and production workflows. My multidisciplinary background allows me to collaborate effectively with artists, programmers, and producers while understanding the technical and creative challenges of each discipline. 
+Hello! thanks for visiting my portfolio!
+I'm **Sassan**, I've been active as a game designer since 2021.
+My passion is gameplay and system design where I can convey the desired experience through different mechanics. 
+Beside gameplay design I have skills for the full development pipeline from ideation & concepting, prototyping and marketing researches to full fledge immersive levels, player progression, optimized economy, clear UI/UX, engaging quests and narratives. My multidisciplinary background allows me to collaborate effectively with artists, programmers, and producers while understanding the technical and creative challenges of each discipline. 
 
-I developed bunch of personal projects as a solo dev from concept to completion so far, the newest one is [relay rush](personal-projects/relay-rush)
+You can see some of my projects here:
+[Professional projects](professional-projects/)
+[Personal projects](personal-projects)
 
 
 
