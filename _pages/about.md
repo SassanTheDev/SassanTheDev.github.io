@@ -16,8 +16,6 @@ Beside gameplay design I have skills for the full development pipeline from idea
 
 You can see some of my projects here:
 
-[Professional projects](professional-projects/)
-
 [Personal projects](personal-projects)
 
 
