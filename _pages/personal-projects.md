@@ -9,8 +9,8 @@ redirect_from:
 These are some of the projects I've worked on.
 Please click on each game title to see more details about them.
 
-# [Devil dust](/personal-projects/devil-dust)
-![Devil dust](/images/dust-devil-cover.png)
+# [Dust devil](/personal-projects/devil-dust)
+![Dust devil](/images/dust-devil-cover.png)
 
 Dust devil is a top-down twin stick shooter vehicular combat game set in the world of Dune and its deserts. Drive your car through the enemy territories and destroy them alongside their plans.
 
