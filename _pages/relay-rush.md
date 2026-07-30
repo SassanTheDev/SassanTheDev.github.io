@@ -3,6 +3,27 @@ title: "Relay rush"
 permalink: /personal-projects/relay-rush
 author_profile: true
 ---
+# Relay rush
+
+It's a game where cross the road meets a tower defense game, where you play as a courier robot that should pass the obstacles.
+
+[Here's the link on Itch.io to try the game!](https://sassanthedev.itch.io/relay-rush)
+#### Genre: arcade, adventure, puzzle, 2D, Top-Down
+#### My role: Game designer, Level designer, Programmer, Pixel artist, Audio designer
+#### Tools: Godot, Libresprite, Ableton live, Microsoft word, Microsoft Excel, Photoshop
+#### Team size: Solo project
+#### Timeline: 1 month
+#### Platforms: Web browser
+
+# Responsibilities
+- Designing the game mechanics
+- Designing levels
+- Writing & maintaining GDD
+- Programming the game
+- Creating the art assets, audio & soundtracks
+- Creating UI
+
+
 # Gameplay
 In relay rush you play as a courier robot named C-55, you move your character by pressing arrow keys to dodge the bullets and projectiles while monitoring your energy. Each tile requires different amount of energy and each projectile deals different amount of damage. I designed the movement of courier to be grid based rather than continuous for couple of reasons:
 1. It would be an interesting interaction with projectiles that don't snap to grid.
