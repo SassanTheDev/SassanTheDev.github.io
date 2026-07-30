@@ -3,17 +3,17 @@ title: "Relay rush"
 permalink: /personal-projects/relay-rush
 author_profile: true
 ---
-# Relay rush
-
-It's a game where cross the road meets a tower defense game, where you play as a courier robot that should pass the obstacles.
-
-[Here's the link on Itch.io to try the game!](https://sassanthedev.itch.io/relay-rush)
 #### Genre: arcade, adventure, puzzle, 2D, Top-Down
 #### My role: Game designer, Level designer, Programmer, Pixel artist, Audio designer
 #### Tools: Godot, Libresprite, Ableton live, Microsoft word, Microsoft Excel, Photoshop
 #### Team size: Solo project
 #### Timeline: 1 month
 #### Platforms: Web browser
+
+Relay rush is a game where cross the road meets a tower defense game and you play as a courier robot that should dodge the projectiles.
+
+[Here's the link on Itch.io to try the game!](https://sassanthedev.itch.io/relay-rush)
+
 
 # Responsibilities
 - Designing the game mechanics
