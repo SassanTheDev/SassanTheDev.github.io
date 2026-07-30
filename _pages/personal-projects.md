@@ -5,6 +5,10 @@ author_profile: true
 redirect_from:
   - /project
 ---
+
+These are some of the projects I've worked on.
+Please click on each game title to see more details about them.
+
 # [Relay rush](/personal-projects/relay-rush)
 Relay Rush is a 2D top-down action-adventure game set in a world devastated by interplanetary war. Play as C-55, a courier robot and deliver vital packages across dangerous territories, explore diverse tile-based zones, gather valuable resources, and overcome hazards and enemies on every mission. Upgrade your capabilities, take on greater challenges, and become the link that holds civilization together.
 
