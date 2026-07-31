@@ -24,23 +24,40 @@ Relay rush is a game where cross the road meets a tower defense game and you pla
 - Creating the art assets, audio & soundtracks
 - Creating UI
 
+# Narratives
+
+The story revolves around a courier robot named C-55 living in Solaris Imperium. The empire get caught in a war and all of its defense turrets and other transport means being hacked or destroyed, the only way to deliver packages and messages is using courier robots...
+
 # Grid based movement
+
 Inspired by "Cross the road" games, I wanted to create a grid-based movement system for the player character. This design choice made me realize that limitations can often inspire creativity. I implemented movement cooldowns that vary depending on the package the player is carrying and the type of tile they are standing on.
+The first challenge I faces was to determine where the player can and can't go. Since I didn't use a physics based collision I needed a way to recognize whether the player is trying to move into a wall or a passable tile
+Fortunately Godot tilemaps has a built-in feature that allows you to add custom attributes to each tile. I named each passable tile (e.g. normal, mud etc.) and used a function that returns the type of the tile the player intends to move toward to. The player will only move to the destination tile if it's a passable one.
+
 # Resources
-# Designing the enemies
-# Power ups
+
+At first I wanted to have 3 resources that players need to watch for: health, energy and time. After some iterating and play testing I realized by adding idle discharging to energy I can mix the two parameters into one, making it for a better user experience.
+
+# Enemies
+
+I designed 4 different enemies for this game, but halfway through I realized that I underestimated the amount of time play testing and iteration requires for a puzzle game. I ended up choosing 2 of them (turrets and mortars) and ditching the other two (drones and laser turrets).
+
+
+# Power ups & charging stations
+
+To make the game easier and more fair to everyone. I added powerups that would each give you different benefits. Same as enemies I had to cut down all of the powerup except the health powerup
+
 # Packages
+
+To increase replayability and add a little challenge to the game. Each time you pass a level you need to deliver a different package in the same level. Needless to say I had to reduce the amount of packages in here as well.
+
 # Tiles
 
+Tiles play an essential role into designing the level in this game. They don't just act as decoration but they have gameplay mechanics implemented within them. 
 
-# Level 1
-# Level 2
-# Gameplay
-In relay rush you play as a courier robot named C-55, you move your character by pressing arrow keys to dodge the bullets and projectiles while monitoring your energy. Each tile requires different amount of energy and each projectile deals different amount of damage. I designed the movement of courier to be grid based rather than continuous for couple of reasons:
-1. It would be an interesting interaction with projectiles that don't snap to grid.
-2. It allows for levels to be designed with grids in mind. by limiting the movement of the player to limited grids, you can create fun challenges for the player.
-# Pre-production: Ideation & concept
-As a solo dev in Relay rush, I started with concepting and idea iteration, first the game was about a hero in medieval high fantasy that searches dungeons for loots while dodging goblins throwing rocks at them, but evantually I changed the theme to sci-fi and created C-55.
+# Concepting & ideation
+
+As a solo dev in Relay rush, I started with concepting and idea iteration, first the game was about a hero in medieval high fantasy that searches dungeons for loots while dodging goblins throwing rocks at them, but eventually, I changed the theme to sci-fi and created C-55.
 after some iteration I created some sketch of the gameplay and maps then using Godot, I created prototypes to validate my assumptions.
 
 ![Relay rush sketch 1](/images/relay-rush-sketch-1.png)
@@ -53,11 +70,6 @@ After writing GDD, I created a project schedule using trello and excel, writing 
 
 ![Relay rush c55 gdd](/images/relay-rush-plan-schedule-1.png)
 
-# Production
-I started working on the contents based on the plan schedule I made, of course it needed some adjustments and the time estimated wasn't always correct but I could manage to finish this project.
-I used Libresprite to create all of the assets and Godot to program this project.
-During pre-production stage I was going to make the heavy package missions to slow down the courier as well, but then that would require me to change all the stats of turrets and mortars so I only changed the amount of energy it would require.
-I found an interesting way to detect walls and other collision rather than using the usual collision detection in Godot, I used custom data on the tile map layer node and checked whether the target position of the character will be on a walkable tile or not, this way I could easily create the level.
+I started working on the contents based on the plan schedule I made, I underestimated the amount of time I need for iteration and playtesting so I had to cut quantity for the sake of quality here.
 
-# Release
-I uploaded the game on itch and you can play it on the browser: [Relay rush](https://sassanthedev.itch.io/relay-rush)
+
