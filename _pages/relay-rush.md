@@ -54,7 +54,7 @@ To increase replayability and add a little challenge to the game. Each time you 
 
 # Tiles
 
-Tiles play an essential role into designing the level in this game. They don't just act as decoration but they have gameplay mechanics implemented within them. 
+Tiles play an essential role into designing the level in this game. They don't just act as decoration but they have gameplay mechanics implemented within them. Each tile determines how much energy you will spend when standing on it.
 
 # Narratives
 
