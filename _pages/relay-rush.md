@@ -11,7 +11,7 @@ author_profile: true
 #### Platforms: Web browser
 
 
-I wanted to make a game inspired by "Cross the road" games but with a twist of having tower defense mechanics in it but keep the game easy to learn and fun to play. It resulted in creating Relay rush.
+I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics yet still be fun to play and easy to understand.
 
 [Here's the link on Itch.io to try the game!](https://sassanthedev.itch.io/relay-rush)
 
