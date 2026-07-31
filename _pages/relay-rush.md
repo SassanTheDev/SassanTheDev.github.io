@@ -10,11 +10,11 @@ author_profile: true
 #### Timeline: 1 month
 #### Platforms: Web browser
 
-### Introduction
 Relay rush is a game where cross the road meets a tower defense game and you play as a courier robot that should dodge the projectiles.
 
 [Here's the link on Itch.io to try the game!](https://sassanthedev.itch.io/relay-rush)
 
+![Trailer](/images/relay-rush-trailer.gif)
 
 # Responsibilities
 - Designing the game mechanics
@@ -25,6 +25,7 @@ Relay rush is a game where cross the road meets a tower defense game and you pla
 - Creating UI
 
 # Grid based movement
+Inspired by "Cross the road" games, I wanted to create a grid-based movement system for the player character. This design choice made me realize that limitations can often inspire creativity. I implemented movement cooldowns that vary depending on the package the player is carrying and the type of tile they are standing on.
 # Resources
 # Designing the enemies
 # Power ups
