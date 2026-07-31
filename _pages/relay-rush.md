@@ -11,7 +11,7 @@ author_profile: true
 #### Platforms: Web browser
 
 
-Relay rush is a game where cross the road meets a tower defense game and you play as a courier robot that should dodge the projectiles.
+I wanted to make a game inspired by "Cross the road" games but with a twist of having tower defense mechanics in it but keep the game easy to learn and fun to play. It resulted in creating Relay rush.
 
 [Here's the link on Itch.io to try the game!](https://sassanthedev.itch.io/relay-rush)
 
@@ -25,14 +25,11 @@ Relay rush is a game where cross the road meets a tower defense game and you pla
 - Creating the art assets, audio & soundtracks
 - Creating UI
 
-# Narratives
-
-The story revolves around a courier robot named C-55 living in Solaris Imperium. The empire get caught in a war and all of its defense turrets and other transport means being hacked or destroyed, the only way to deliver packages and messages is using courier robots...
 
 # Grid based movement
 
-Inspired by "Cross the road" games, I wanted to create a grid-based movement system for the player character. This design choice made me realize that limitations can often inspire creativity. I implemented movement cooldowns that vary depending on the package the player is carrying and the type of tile they are standing on.
-The first challenge I faces was to determine where the player can and can't go. Since I didn't use a physics based collision I needed a way to recognize whether the player is trying to move into a wall or a passable tile
+Inspired by "Cross the road" games, I wanted to create a grid-based movement system for the player character. This design choice made me realize that limitations can often inspire creativity. I implemented movement cooldowns that vary depending on the package the player is carrying and the type of tile they are standing on. Grid movement forces players to commit to decisions, making every tile a tactical choice instead of allowing continuous dodging.
+The first challenge I faced was to determine where the player can and can't go. Since I didn't use a physics based collision I needed a way to recognize whether the player is trying to move into a wall or a passable tile
 Fortunately Godot tilemaps has a built-in feature that allows you to add custom attributes to each tile. I named each passable tile (e.g. normal, mud etc.) and used a function that returns the type of the tile the player intends to move toward to. The player will only move to the destination tile if it's a passable one.
 
 # Resources
@@ -48,9 +45,6 @@ I designed 4 different enemies for this game, but halfway through I realized tha
 
 To make the game easier and more fair to everyone. I added powerups that would each give you different benefits. Same as enemies I had to cut down all of the powerup except the health powerup
 
-![powerup](/images/relay-rush-powerup-1.gif)
-
-![powerup-visual](/images/relay-rush-powerup-2.gif)
 
 # Packages
 
@@ -59,6 +53,10 @@ To increase replayability and add a little challenge to the game. Each time you 
 # Tiles
 
 Tiles play an essential role into designing the level in this game. They don't just act as decoration but they have gameplay mechanics implemented within them. 
+
+# Narratives
+
+Solaris Imperium, once a thriving nation and one of the greatest economic powers, caught in a mysterious situation, unknown forces jamming long-range signals, hacking and controlling defense turrets and drones and turning them against the people, transports are shot down and the only thing that works is something people thought is no longer needed, a courier on foot.
 
 # Concepting & ideation
 
@@ -75,6 +73,10 @@ After writing GDD, I created a project schedule using trello and excel, writing 
 
 ![Relay rush c55 gdd](/images/relay-rush-plan-schedule-1.png)
 
-I started working on the contents based on the plan schedule I made, I underestimated the amount of time I need for iteration and playtesting so I had to cut quantity for the sake of quality here.
+# Key Learnings
+
+- Designing mechanics is easier than balancing them.
+- Playtesting revealed that fewer, well-polished mechanics created a stronger experience than many unfinished ones.
+- Early production estimates should allocate significantly more time for iteration.
 
 
