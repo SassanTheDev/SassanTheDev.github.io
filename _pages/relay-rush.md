@@ -13,7 +13,7 @@ author_profile: true
 
 I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics yet still be fun to play and easy to understand.
 
-[Here's the link on Itch.io to try the game!](https://sassanthedev.itch.io/relay-rush)
+[Try the game here!](https://sassanthedev.itch.io/relay-rush)
 
 ![Trailer](/images/relay-rush-trailer.gif)
 
@@ -28,8 +28,8 @@ I wanted to make a game that uses positioning strategy of "cross the road" games
 
 # Grid based movement
 
-Inspired by "Cross the road" games, I wanted to create a grid-based movement system for the player character. This design choice made me realize that limitations can often inspire creativity. I implemented movement cooldowns that vary depending on the package the player is carrying and the type of tile they are standing on. Grid movement forces players to commit to decisions, making every tile a tactical choice instead of allowing continuous dodging.
-The first challenge I faced was to determine where the player can and can't go. Since I didn't use a physics based collision I needed a way to recognize whether the player is trying to move into a wall or a passable tile
+Grid movement forces players to commit to decisions, making every tile a tactical choice instead of allowing continuous dodging. This design choice made me realize that limitations can often inspire creativity. I implemented movement cooldowns that vary depending on the package the player is carrying and the type of tile they are standing on. 
+The first challenge while developing this mechanic was to determine where the player can and can't go. Since I didn't use a physics based collision I needed a way to recognize whether the player is trying to move into a wall or a passable tile
 Fortunately Godot tilemaps has a built-in feature that allows you to add custom attributes to each tile. I named each passable tile (e.g. normal, mud etc.) and used a function that returns the type of the tile the player intends to move toward to. The player will only move to the destination tile if it's a passable one.
 
 # Resources
