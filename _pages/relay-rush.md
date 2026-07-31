@@ -9,11 +9,9 @@ author_profile: true
 #### Team size: Solo project
 #### Timeline: 1 month
 #### Platforms: Web browser
+<br/><br/>I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics yet still be fun to play and easy to understand.
 
-
-I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics yet still be fun to play and easy to understand.
-
-[Try the game here!](https://sassanthedev.itch.io/relay-rush)
+You can play the game on browser [here!](https://sassanthedev.itch.io/relay-rush)
 
 ![Trailer](/images/relay-rush-trailer.gif)
 
