@@ -16,7 +16,7 @@ We wanted to make a casual, fun game inspired by Dune world and old retro twin s
 
 Play the game here: **[link](https://aethewn.itch.io/dust-devil)**
 
-![trailer](/images/dust-devil-trailer.gif)
+![trailer](/images/dust-devil-trailer.mp4)
 
 # Responsibilities
 - Designing the game mechanics
