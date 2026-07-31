@@ -3,13 +3,15 @@ title: "Relay rush"
 permalink: /personal-projects/relay-rush
 author_profile: true
 ---
+---
 #### Genre: arcade, adventure, puzzle, 2D, Top-Down
 #### My role: Game designer, Level designer, Programmer, Pixel artist, Audio designer
 #### Tools: Godot, Libresprite, Ableton live, Microsoft word, Microsoft Excel, Photoshop
 #### Team size: Solo project
 #### Timeline: 1 month
 #### Platforms: Web browser
-<br/><br/>I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics, still be fun to play and accesible.
+---
+I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics, still be fun to play and accesible.
 
 You can play the game on browser [here!](https://sassanthedev.itch.io/relay-rush)
 
@@ -66,8 +68,6 @@ Once the concept was validated and I settled the technical and artistic aspects 
 
 
 After writing GDD, I created a project schedule using trello and excel, writing down everything that needed to be done for each level with the respect to priority and dependencies
-
-![Relay rush c55 gdd](/images/relay-rush-plan-schedule-1.png)
 
 # Key Learnings
 
