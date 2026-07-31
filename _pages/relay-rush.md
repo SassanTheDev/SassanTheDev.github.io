@@ -5,11 +5,12 @@ author_profile: true
 ---
 ---
 ##### Genre: arcade, adventure, puzzle, 2D, Top-Down
-##### My role: Game designer, Level designer, Programmer, Pixel artist, Audio designer
-##### Tools: Godot, Libresprite, Ableton live, Microsoft word, Microsoft Excel, Photoshop
 ##### Team size: Solo project
 ##### Timeline: 1 month
+##### Released: June 2026
 ##### Platforms: Web browser
+##### My role: Game designer, Level designer, Programmer, Pixel artist, Audio designer
+##### Tools: Godot, Libresprite, Ableton live, Microsoft word, Microsoft Excel, Photoshop
 ---
 I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics, still be fun to play and accesible.
 
