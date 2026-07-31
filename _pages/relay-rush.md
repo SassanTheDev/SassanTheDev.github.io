@@ -10,6 +10,7 @@ author_profile: true
 #### Timeline: 1 month
 #### Platforms: Web browser
 
+
 Relay rush is a game where cross the road meets a tower defense game and you play as a courier robot that should dodge the projectiles.
 
 [Here's the link on Itch.io to try the game!](https://sassanthedev.itch.io/relay-rush)
@@ -46,6 +47,10 @@ I designed 4 different enemies for this game, but halfway through I realized tha
 # Power ups & charging stations
 
 To make the game easier and more fair to everyone. I added powerups that would each give you different benefits. Same as enemies I had to cut down all of the powerup except the health powerup
+
+![powerup](/images/relay-rush-powerup-1.gif)
+
+![powerup-visual](/images/relay-rush-powerup-2.gif)
 
 # Packages
 
