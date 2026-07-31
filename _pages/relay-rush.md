@@ -14,7 +14,7 @@ author_profile: true
 ---
 I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics, still be fun to play and accesible.
 
-You can play the game on browser [here!](https://sassanthedev.itch.io/relay-rush)
+You can play the game on browser **[here!](https://sassanthedev.itch.io/relay-rush)**
 
 ![Trailer](/images/relay-rush-trailer.gif)
 
@@ -42,7 +42,7 @@ At first I wanted to have 3 resources that players watch for: health, energy and
 # Enemies
 
 I designed 4 different enemies for this game, but halfway through I realized that I underestimated the amount of time play testing and iteration requires for a puzzle game. I ended up choosing 2 of them (turrets and mortars) and ditching the other two (drones and laser turrets).
-Turret GDD as an example: [Turret GDD](https://docs.google.com/document/d/1muHdyu0iuMxgSXI7lLgAA8gKYcRB0R19/edit?usp=sharing&ouid=114146646992029006692&rtpof=true&sd=true)
+Turret GDD as an example: **[Turret GDD](https://docs.google.com/document/d/1muHdyu0iuMxgSXI7lLgAA8gKYcRB0R19/edit?usp=sharing&ouid=114146646992029006692&rtpof=true&sd=true)**
 
 # Power ups & charging stations
 
