@@ -14,7 +14,7 @@ author_profile: true
 ---
 We wanted to make a casual, fun game inspired by Dune world and old retro twin stick shooter games. The game should be simple to learn and follow but with its own challenges.
 
-Play the game here: [link](https://aethewn.itch.io/dust-devil)
+Play the game here: **[link](https://aethewn.itch.io/dust-devil)**
 
 ![trailer](/images/dust-devil-trailer.gif)
 
