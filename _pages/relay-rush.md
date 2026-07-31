@@ -4,12 +4,12 @@ permalink: /personal-projects/relay-rush
 author_profile: true
 ---
 ---
-#### Genre: arcade, adventure, puzzle, 2D, Top-Down
-#### My role: Game designer, Level designer, Programmer, Pixel artist, Audio designer
-#### Tools: Godot, Libresprite, Ableton live, Microsoft word, Microsoft Excel, Photoshop
-#### Team size: Solo project
-#### Timeline: 1 month
-#### Platforms: Web browser
+##### Genre: arcade, adventure, puzzle, 2D, Top-Down
+##### My role: Game designer, Level designer, Programmer, Pixel artist, Audio designer
+##### Tools: Godot, Libresprite, Ableton live, Microsoft word, Microsoft Excel, Photoshop
+##### Team size: Solo project
+##### Timeline: 1 month
+##### Platforms: Web browser
 ---
 I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics, still be fun to play and accesible.
 
@@ -29,17 +29,19 @@ You can play the game on browser [here!](https://sassanthedev.itch.io/relay-rush
 # Grid based movement
 
 Grid movement forces players to commit to decisions, making every tile a tactical choice instead of allowing continuous dodging. This design choice made me realize that limitations can often inspire creativity. I implemented movement cooldowns that vary depending on the package the player is carrying and the type of tile they are standing on. 
-The first challenge while developing this mechanic was to determine where the player can and can't go. Since I didn't use a physics based collision I needed a way to recognize whether the player is trying to move into a wall or a passable tile
-Fortunately Godot tilemaps has a built-in feature that allows you to add custom attributes to each tile. I named each passable tile (e.g. normal, mud etc.) and used a function that returns the type of the tile the player intends to move toward to. The player will only move to the destination tile if it's a passable one.
+
+The first challenge while developing this mechanic was to determine which tiles are passable since I didn't use a physics based collision as it was a grid movement that snaps the character to the destination point.
+
+Fortunately Godot tilemaps has a built-in feature that allows for custom attributes addition to each tile. I named each passable tile (e.g. normal, mud etc.) and used a function that returns the type of the tile the player intends to move toward to. If it's one of the passable ones then the player can move otherwise it will block the movement.
 
 # Resources
 
-At first I wanted to have 3 resources that players need to watch for: health, energy and time. After some iterating and play testing I realized by adding idle discharging to energy I can mix the two parameters into one, making it for a better user experience.
+At first I wanted to have 3 resources that players watch for: health, energy and time. After iterating on the idea and playtesting the game I realized I can add continuous discharge to energy instead of having two different parameters, making it easier for the players to keep track of their resources.
 
 # Enemies
 
 I designed 4 different enemies for this game, but halfway through I realized that I underestimated the amount of time play testing and iteration requires for a puzzle game. I ended up choosing 2 of them (turrets and mortars) and ditching the other two (drones and laser turrets).
-
+Turret GDD as an example: [Turret GDD](/files/Turret.docx)
 
 # Power ups & charging stations
 
