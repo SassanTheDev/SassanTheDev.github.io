@@ -13,7 +13,7 @@ My passion is **gameplay and systems design** where I create engaging player exp
 
 Beyond systems design, I have experience throughout the entire development process. My understanding of other disciplines allows me to write clear and concise GDDs, collaborate effectively with artists, programmers, and producers, and account for technical and creative constraints.
 
-Some of my projects in more detail: **[projects!](projects)**
+Plesae visit **[projects](projects)** section to see some of my work.
 
 
 
