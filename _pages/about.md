@@ -9,11 +9,11 @@ redirect_from:
 
 Hello and thank you for visiting my portfolio!
 
-My passion is **gameplay and systems design** where I create engaging player experiences through meaningful mechanics. I believe in elegant design where you create the most depth with the least amount of work.
+My passion is **gameplay and systems design** where I create engaging player experiences through meaningful mechanics. I believe in elegant design where you can create depth without complexity.
 
-Beyond systems design, I have experience with the whole development process. My understanding of other disciplines allows me to write clear and concise GDDs, and collaborate effectively with artists, programmers and producers, while understanding the technical and creative challenges.
+Beyond systems design, I have experience throughout the entire development process. My understanding of other disciplines allows me to write clear and concise GDDs, collaborate effectively with artists, programmers, and producers, and account for technical and creative constraints.
 
-To see some of my projects in more details, see **[projects!](projects)**
+Some of my projects in more detail: **[projects!](projects)**
 
 
 
