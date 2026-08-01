@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and thank you for visiting my portfolio. I'm **Sassan**.
+Hello and thank you for visiting my portfolio!
 
 My passion is **gameplay and systems design** where I create engaging player experience through different mechanics.
 
