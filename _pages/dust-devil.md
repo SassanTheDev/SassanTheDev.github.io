@@ -43,5 +43,7 @@ To design the level we used Terrain3D plugin with a free dune preset.
 I scattered the enemies across the map in groups for easier balancing due to short jam time.
 
 # Enemies
-For the infantry units we were looking for patrolling units that would follow you if you get close enough and follow/shoot you until you're out of the range. While developing the game we realized lag/jittering. To solve that issue we implemented object pooling on the infantry units to increase the performance. The game has over 100 3D models in the same terrain. To increase the performance even further we had to remove the 3D model and use simple geometrical shapes. To make up for the aesthetics we used pixelated filter to add retro feelings to the game and hide the cubes.
 
+We planned on having 2 types of enemies, infantry units and enemy vehicles chasing you.
+For the infantry units we were looking for patrolling units that would follow you if you get close enough and follow/shoot you until you're out of the range.
+For the enemy car, if you get to their range, they start chasing you until either you or them gets destroyed.
