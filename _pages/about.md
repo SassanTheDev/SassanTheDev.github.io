@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello and thank you for visiting my portfolio.
+Hello and thank you for visiting my portfolio. I'm **Sassan**.
 
-I'm **Sassan**, My passion is **gameplay and system design** where I can create the desired experience through different game mechanics.
+My passion is **gameplay and systems design** where I create engaging player experience through gameplay mechanics.
 
-Beyond that, I have experience for the full development pipeline from ideation & concepting, prototyping and marketing researches to full fledge immersive levels, player progression, optimized economy, clear UI/UX, engaging quests and narratives. My multidisciplinary background allows me to collaborate effectively with artists, programmers, and producers while understanding the technical and creative challenges of each discipline.
+Beyond systems design, I have experience throughout the development process. My multidisciplinary background allows me to write clear and concise GDDs and  collaborate effectively with artists, programmers and producers while understanding the technical and creative challenges of each discipline.
 
-You can see some of my projects here:
+To see some of my projects in more details, see **[projects!](projects)**
 
-**[Projects](projects)**
+
 
 
 
