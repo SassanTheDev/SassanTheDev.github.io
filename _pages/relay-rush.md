@@ -12,7 +12,7 @@ author_profile: true
 ##### My role: Game designer, Level designer, Programmer, Pixel artist, Audio designer
 ##### Tools: Godot, Libresprite, Ableton live, Microsoft word, Microsoft Excel, Photoshop
 ---
-I wanted to make a game that uses positioning strategy of "cross the road" games with tower defense mechanics, still be fun to play and accesible.
+I wanted to make a game that takes positioning mechanics of "cross the road" games and mixes it with "tower defense" games and still be fun to play and accesible.
 
 You can play the game on browser **[here!](https://sassanthedev.itch.io/relay-rush)**
 
