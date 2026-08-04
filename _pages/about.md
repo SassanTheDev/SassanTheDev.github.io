@@ -18,7 +18,7 @@ I'm committed to continuous learning and refining my craft through iteration. I 
 
 # Resume 
 ---
-### SUMMARY
+#### SUMMARY
 I'm Sassan, a passionate game designer who loves to turn ideas into deep and immersive experiences.
 With hands-on expertise in C++, C#, and GDScript and using industry-standard engines like Unity and
 Godot, whether it's prototyping new mechanics, optimizing player flow, or building worlds from scratch,
@@ -29,8 +29,8 @@ I use git/GitHub, Trello, Microsoft office and other collaboration tools to comm
 other team members.
 Let’s connect and build something extraordinary. 
 
-### SKILLS
-#### Game & Level Design
+#### SKILLS
+##### Game & Level Design
 
 * System design
 * Level design
@@ -39,17 +39,17 @@ Let’s connect and build something extraordinary.
 * Narrative design
 * UI/UX design
 
-#### Programming
+##### Programming
 * C++
 * C#
 * GDScript
 
-#### Frameworks & Libraries
+##### Frameworks & Libraries
 * SDL
 * Boost
 * STL
 
-#### Softwares & Technologies
+##### Softwares & Technologies
 * Unity
 * Godot
 * Git
@@ -61,7 +61,7 @@ Let’s connect and build something extraordinary.
 * Ableton
 * Visual Studio & Visual Studio Code
 
-#### Leadership & Collaboration
+##### Leadership & Collaboration
 * Agile development (scrum & kanban)
 * Analytic problem solving (Root cause, TRIZ etc...)
 * Vision holder & Team Catalyst
