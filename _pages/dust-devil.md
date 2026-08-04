@@ -13,8 +13,10 @@ author_profile: true
 **Tools:** Godot, Microsoft office, Google suite, Trello  
 **Play:** [Browser/Windows](https://aethewn.itch.io/dust-devil)
 
-# Overview
 ---
+
+# Overview
+
 <video width="720" height="480" controls>
   <source src="/images/dust-devil-trailer.mp4" type="video/mp4">
 </video>
@@ -27,8 +29,10 @@ Because the project was created within a one-week game jam, the design focus was
 The final gameplay loop became:  
 **Explore the desert → engage enemies → survive encounters → achieve a higher score**
 
-# Design Goals
 ---
+
+# Design Goals
+
 The main design goals were:
 
 * Create responsive vehicle movement that feels enjoyable to control.
@@ -36,8 +40,9 @@ The main design goals were:
 * Build a recognizable desert environment with a retro arcade feeling.
 * Create enemy encounters that are easy to understand but require player awareness.
 
-# Responsibilities
 ---
+
+# Responsibilities
 
 My contributions included:
 
@@ -48,8 +53,9 @@ My contributions included:
 * Implementing and adjusting vehicle movement.
 * Designing UI/UX elements.
 
-# Player Vehicle Design
 ---
+
+# Player Vehicle Design
 
 ## Challenge
 
@@ -77,9 +83,9 @@ Additional effects were added to improve player feedback:
 
 These changes improved the connection between player input and the game world, making movement feel more impactful.
 
+---
 
 # Level Design
----
 
 ## Goal
 
@@ -102,9 +108,9 @@ Enemies were distributed across the map in groups, allowing easier balancing and
 
 This approach helped create variety in gameplay while keeping development manageable within the one-week deadline.
 
+---
 
 # Enemy Design
----
 
 ## Enemy Types
 
@@ -138,9 +144,9 @@ Their behavior:
 
 The combination of stationary infantry threats and mobile vehicle threats created different combat situations without requiring complex AI systems.
 
+---
 
 # Development Constraints & Solutions
----
 
 ## Constraint: One-Week Development Timeline
 
@@ -166,10 +172,9 @@ The project helped me develop practical experience in:
 * Balancing gameplay systems quickly.
 * Collaborating across design and programming responsibilities.
 
-
+---
 
 # Key Takeaways
----
 
 Dust Devil reinforced the importance of player feel in action games.
 
