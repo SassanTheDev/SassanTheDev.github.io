@@ -8,22 +8,13 @@ redirect_from:
   - /resume
 ---
 ---
-I'm Sassan, a passionate game designer with a focus on **technical design and systems design**. I've loved video games for as long as I can remember, and I've always been curious about how games are made. 
+I'm Sassan, a passionate game designer with a focus on **technical design and systems design**. I've loved video games for as long as I can remember, and I have always been fascinated by the systems, mechanics, and technology behind games, which led me to pursue game design with a focus on technical and systems design.
 
 Besides designing and programming, I have a solid understanding of the development process and the disciplines involved, including project management, art, marketing, sound design, and writing. This broad perspective allows me to write clear and concise GDDs, collaborate effectively with others, and account for technical and creative constraints. I learn quickly, adapt easily, and work effectively within different team structures and production workflows.
 
 I believe an elegant design is the one that avoids unnecessary complexity while adding depth to the gameplay.
 
 I'm committed to continuous learning and refining my craft through iteration. I approach every project as an opportunity to become a better designer.
-
-With hands-on expertise in C++, C#, and GDScript and using industry-standard engines like Unity and
-Godot, whether it's prototyping new mechanics, optimizing player flow, or building worlds from scratch,
-I'm eager to tackle any challenges.
-My approach blends analytical thinking with artistic vision, ensuring that every mechanic and
-environment serves the player's journey.
-I use git/GitHub, Trello, Microsoft office and other collaboration tools to communicate effectively with
-other team members.
-Let’s connect and build something extraordinary. 
 
 #### SKILLS
 
