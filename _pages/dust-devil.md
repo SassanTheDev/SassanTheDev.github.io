@@ -15,6 +15,9 @@ author_profile: true
 ---
 # Overview
 ---
+<video width="720" height="480" controls>
+  <source src="/images/dust-devil-trailer.mp4" type="video/mp4">
+</video>
 Dust Devil is a 3D twin-stick shooter inspired by desert science-fiction worlds such as *Dune* and classic retro arcade shooters.
 
 The goal of the project was to create a simple-to-learn but challenging arcade experience where players could immediately understand the controls while still having opportunities to improve their performance through movement, positioning, and combat decisions.
