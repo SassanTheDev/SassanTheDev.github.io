@@ -15,6 +15,8 @@ author_profile: true
 
 # Overview
 
+---
+
 <video width="720" height="480" controls>
   <source src="/images/dust-devil-trailer.mp4" type="video/mp4">
 </video>
@@ -29,6 +31,8 @@ The final gameplay loop became:
 
 # Design Goals
 
+---
+
 The main design goals were:
 
 * Create responsive vehicle movement that feels enjoyable.
@@ -36,6 +40,8 @@ The main design goals were:
 * Create enemy encounters that are easy to understand but require player awareness.
 
 # Responsibilities
+
+---
 
 My contributions included:
 
@@ -49,7 +55,9 @@ My contributions included:
 
 # Player Vehicle Design
 
-### Challenge
+---
+
+## Challenge
 
 The biggest design challenge was creating vehicle movement that felt satisfying.
 
@@ -62,7 +70,7 @@ The goal was to create a vehicle that:
 * Made jumping over dunes feel rewarding and satisfying.
 * Supported fast arcade style gameplay.
 
-### Implementation
+## Implementation
 
 Due to the one week development timeline, we used a Godot vehicle plugin as a foundation and modified it to fit our gameplay needs.
 
@@ -77,7 +85,9 @@ These changes improved the connection between player input and the game world, m
 
 # Level Design
 
-### Goal
+---
+
+## Goal
 
 My goal for the level was to create a retro inspired desert battlefield surrounded by mountains, providing a clear gameplay space while maintaining the feeling of exploration.
 
@@ -88,7 +98,7 @@ The environment needed to support:
 * Open movement opportunities.
 * Visual identity.
 
-### Process
+## Process
 
 The terrain was created using the Terrain3D plugin with a dune based preset.
 
@@ -100,14 +110,16 @@ This approach helped create variety in gameplay while keeping development manage
 
 # Enemy Design
 
-### Enemy Types
+---
+
+## Enemy Types
 
 The design included two enemy categories:
 
 1. Infantry Units
 2. Enemy Vehicles
 
-### Infantry Units
+## Infantry Units
 
 Infantry enemies were designed around proximity based behavior.
 
@@ -120,7 +132,7 @@ Their intended behavior:
 
 This created pressure during exploration while keeping the behavior simple enough for a short development cycle.
 
-### Enemy Vehicles
+## Enemy Vehicles
 
 Enemy vehicles were designed to create higher intensity encounters.
 
@@ -134,7 +146,9 @@ The combination of stationary infantry threats and mobile vehicle threats create
 
 # Development Constraints & Solutions
 
-### Constraint: Short development timeline
+---
+
+## Constraint: Short development timeline
 
 The biggest production challenge was balancing ambition with available time.
 
@@ -149,7 +163,7 @@ To stay within scope, we prioritized:
 
 Instead of creating many mechanics, we concentrated on making the core driving and shooting experience enjoyable.
 
-### Result
+## Result
 
 Dust Devil successfully delivered a compact arcade experience built around movement, combat, and survival.
 
@@ -163,6 +177,8 @@ The project helped me develop practical experience in:
 * Collaborating across design and programming responsibilities.
 
 # Key Takeaways
+
+---
 
 Dust Devil reinforced the importance of player feel in action games.
 
