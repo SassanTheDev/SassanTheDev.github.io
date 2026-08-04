@@ -55,8 +55,6 @@ My contributions included:
 
 # Player Vehicle Design
 
----
-
 ## Challenge
 
 The biggest design challenge was creating vehicle movement that felt satisfying.
@@ -85,8 +83,6 @@ These changes improved the connection between player input and the game world, m
 
 # Level Design
 
----
-
 ## Goal
 
 My goal for the level was to create a retro inspired desert battlefield surrounded by mountains, providing a clear gameplay space while maintaining the feeling of exploration.
@@ -109,8 +105,6 @@ Enemies were distributed across the map in groups, allowing easier balancing and
 This approach helped create variety in gameplay while keeping development manageable within the game jam deadline.
 
 # Enemy Design
-
----
 
 ## Enemy Types
 
@@ -145,8 +139,6 @@ Their behavior:
 The combination of stationary infantry threats and mobile vehicle threats created different combat situations without requiring complex AI systems.
 
 # Development Constraints & Solutions
-
----
 
 ## Constraint: Short development timeline
 
