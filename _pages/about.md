@@ -7,6 +7,9 @@ redirect_from:
   - /cv
   - /resume
 ---
+I'm Sassan, a passionate game designer with focus on **technical & systems design**. I was in love with video games since my childhood. I was always curious how video games are made and it was a dream for me to be part of a game dev team. I like reading books about designing and psychology to further enhance my skills and abilities to make games.
+
+I have a solid understanding of the entire development process and the disciplines involved, including project management, programming, art, marketing, sound design, and writing. This broad perspective allows me to write clear and concise GDDs, collaborate effectively with others, and account for technical and creative constraints.
 
 [My resume in PDF](/files/Sassan%20Nourian%20Resume.pdf)
 
