@@ -22,9 +22,9 @@ author_profile: true
 </video>
 Dust Devil is a 3D twin-stick shooter inspired by desert science-fiction worlds such as *Dune* and classic retro arcade shooters.
 
-The goal of the project was to create a simple-to-learn but challenging arcade experience where players could immediately understand the controls while still having opportunities to improve their performance through movement, positioning, and combat decisions.
+The goal of the project was to create an easy to learn game that engages the player from the beginning and then new challenges will be emerged later. This requires that players immediately understand the controls while still having opportunities to improve their performance through movement, positioning, and combat decisions.
 
-Because the project was created within a one-week game jam, the design focus was on creating a strong core gameplay loop rather than building a large amount of content.
+Because the project was created within a one week game jam, the design focus was on creating a strong core gameplay loop rather than building a large amount of content.
 
 The final gameplay loop became:  
 **Explore the desert → engage enemies → survive encounters → achieve a higher score**
@@ -35,8 +35,7 @@ The final gameplay loop became:
 
 The main design goals were:
 
-* Create responsive vehicle movement that feels enjoyable to control.
-* Combine fast-paced shooting with movement-based challenges.
+* Create responsive vehicle movement that feels enjoyable.
 * Build a recognizable desert environment with a retro arcade feeling.
 * Create enemy encounters that are easy to understand but require player awareness.
 
@@ -51,13 +50,14 @@ My contributions included:
 * Creating and maintaining the Game Design Document.
 * Programming gameplay systems.
 * Implementing and adjusting vehicle movement.
-* Designing UI/UX elements.
+* Designing the AI (infantry & enemy vehicles)
+* Designing UI/UX elements such as health bar and timers.
 
 ---
 
 # Player Vehicle Design
 
-## Challenge
+### Challenge
 
 The biggest design challenge was creating vehicle movement that felt satisfying.
 
@@ -67,12 +67,12 @@ The goal was to create a vehicle that:
 
 * Responded quickly to player input.
 * Felt fun when drifting across the terrain.
-* Made jumping over dunes feel rewarding.
-* Supported fast arcade-style gameplay.
+* Made jumping over dunes feel rewarding and satisfying.
+* Supported fast arcade style gameplay.
 
-## Implementation
+### Implementation
 
-Due to the one-week development timeline, we used a Godot vehicle plugin as a foundation and modified it to fit our gameplay needs.
+Due to the one week development timeline, we used a Godot vehicle plugin as a foundation and modified it to fit our gameplay needs.
 
 I adjusted the vehicle behavior to better match an arcade experience rather than a realistic driving simulation.
 
@@ -87,9 +87,9 @@ These changes improved the connection between player input and the game world, m
 
 # Level Design
 
-## Goal
+### Goal
 
-My goal for the level was to create a retro-inspired desert battlefield surrounded by mountains, providing a clear gameplay space while maintaining the feeling of exploration.
+My goal for the level was to create a retro inspired desert battlefield surrounded by mountains, providing a clear gameplay space while maintaining the feeling of exploration.
 
 The environment needed to support:
 
@@ -98,30 +98,30 @@ The environment needed to support:
 * Open movement opportunities.
 * Visual identity.
 
-## Process
+### Process
 
-The terrain was created using the Terrain3D plugin with a dune-based preset.
+The terrain was created using the Terrain3D plugin with a dune based preset.
 
 Because of the limited jam timeline, I focused on efficient encounter placement instead of building a highly scripted level.
 
 Enemies were distributed across the map in groups, allowing easier balancing and creating natural combat zones.
 
-This approach helped create variety in gameplay while keeping development manageable within the one-week deadline.
+This approach helped create variety in gameplay while keeping development manageable within the game jam deadline.
 
 ---
 
 # Enemy Design
 
-## Enemy Types
+### Enemy Types
 
-The original design included two enemy categories:
+The design included two enemy categories:
 
 1. Infantry Units
 2. Enemy Vehicles
 
-## Infantry Units
+### Infantry Units
 
-Infantry enemies were designed around proximity-based behavior.
+Infantry enemies were designed around proximity based behavior.
 
 Their intended behavior:
 
@@ -132,9 +132,9 @@ Their intended behavior:
 
 This created pressure during exploration while keeping the behavior simple enough for a short development cycle.
 
-## Enemy Vehicles
+### Enemy Vehicles
 
-Enemy vehicles were designed to create higher-intensity encounters.
+Enemy vehicles were designed to create higher intensity encounters.
 
 Their behavior:
 
@@ -148,7 +148,7 @@ The combination of stationary infantry threats and mobile vehicle threats create
 
 # Development Constraints & Solutions
 
-## Constraint: One-Week Development Timeline
+### Constraint: Short development timeline
 
 The biggest production challenge was balancing ambition with available time.
 
@@ -158,12 +158,16 @@ To stay within scope, we prioritized:
 * A clear gameplay loop.
 * Simple but readable enemy behaviors.
 * A focused environment.
+* Adding retro feelings with visual filters.
+* The cat model... because why not!
 
 Instead of creating many mechanics, we concentrated on making the core driving and shooting experience enjoyable.
 
-## Result
+### Result
 
 Dust Devil successfully delivered a compact arcade experience built around movement, combat, and survival.
+
+The game became 42th between 333 submitted games. The main reason for not being on top 10 was that because of Godot web export limitation, the game was laggy on browsers and directly impacted the player experience. 
 
 The project helped me develop practical experience in:
 
@@ -178,6 +182,6 @@ The project helped me develop practical experience in:
 
 Dust Devil reinforced the importance of player feel in action games.
 
-Through this project, I learned that small details such as vehicle responsiveness, visual feedback, and movement effects can significantly impact player enjoyment.
+Through this project, I learned that small details such as vehicle responsiveness, visual feedback, and movement effects can significantly impact player enjoyment (and the cat model because everyone was mentioning it).
 
-Working within a one-week game jam environment also improved my ability to prioritize features, communicate design decisions, and focus development effort on the elements that create the strongest player experience.
+Working within the game jam environment also improved my ability to prioritize features, communicate design decisions, and focus development effort on the elements that create the strongest player experience.
