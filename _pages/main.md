@@ -10,10 +10,7 @@ Hello and thanks for visiting my portfolio!
 
 I'm a **technical and system designer**. My goal is to create engaging player experiences through meaningful mechanics. I believe in **elegant** design that achieves depth without unnecessary complexity.
 
-I have a solid understanding of the entire development process and the disciplines involved, including project management, programming, art, marketing, sound design, and writing. This broad perspective allows me to write clear and concise GDDs, collaborate effectively with others, and account for technical and creative constraints.
-
-These are some of the projects I've worked on.
-Please click on each game title to see more details about them.
+Here's some of my works, please click on the game titles for more detail.
 
 # [Dust devil](/personal-projects/devil-dust)
 ![Dust devil](/images/dust-devil-cover.png)
