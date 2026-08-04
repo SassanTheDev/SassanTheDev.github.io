@@ -54,6 +54,7 @@ My contributions included:
 * Designing UI/UX elements.
 
 # Player Vehicle Design
+---
 
 ## Challenge
 
@@ -81,9 +82,9 @@ Additional effects were added to improve player feedback:
 
 These changes improved the connection between player input and the game world, making movement feel more impactful.
 
----
 
 # Level Design
+---
 
 ## Goal
 
@@ -106,9 +107,9 @@ Enemies were distributed across the map in groups, allowing easier balancing and
 
 This approach helped create variety in gameplay while keeping development manageable within the one-week deadline.
 
----
 
 # Enemy Design
+---
 
 ## Enemy Types
 
@@ -142,9 +143,9 @@ Their behavior:
 
 The combination of stationary infantry threats and mobile vehicle threats created different combat situations without requiring complex AI systems.
 
----
 
 # Development Constraints & Solutions
+---
 
 ## Constraint: One-Week Development Timeline
 
@@ -170,9 +171,10 @@ The project helped me develop practical experience in:
 * Balancing gameplay systems quickly.
 * Collaborating across design and programming responsibilities.
 
----
+
 
 # Key Takeaways
+---
 
 Dust Devil reinforced the importance of player feel in action games.
 
