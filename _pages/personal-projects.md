@@ -5,9 +5,7 @@ author_profile: true
 redirect_from:
   - /project
 ---
-
-
-Please click on the game titles for more detail.
+Here's some of my latest projects:
 
 # [Dust devil](/personal-projects/devil-dust)
 ![Dust devil](/images/dust-devil-cover.png)
