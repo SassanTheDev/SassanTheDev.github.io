@@ -16,10 +16,6 @@ I believe an elegant design is the one that avoids unnecessary complexity while 
 
 I'm committed to continuous learning and refining my craft through iteration. I approach every project as an opportunity to become a better designer.
 
-# Resume 
----
-#### SUMMARY
-I'm Sassan, a passionate game designer who loves to turn ideas into deep and immersive experiences.
 With hands-on expertise in C++, C#, and GDScript and using industry-standard engines like Unity and
 Godot, whether it's prototyping new mechanics, optimizing player flow, or building worlds from scratch,
 I'm eager to tackle any challenges.
@@ -30,14 +26,41 @@ other team members.
 Let’s connect and build something extraordinary. 
 
 #### SKILLS
-##### Game & Level Design
 
-* System design
-* Level design
-* Gameplay design
-* Character design
-* Narrative design
-* UI/UX design
+##### Technical design
+
+* Gameplay systems architecture
+* Feature specifications & technical design documents
+* Rapid prototyping
+* Gameplay scripting
+* Player interaction systems
+* Ability and combat system implementation
+* State machines and behavior logic
+* AI behavior design
+* Tools and workflow design
+* Data-driven design
+* Balancing through playtesting and telemetry
+* Engine-side implementation (Unity/Godot)
+* Debugging and optimization
+* Technical collaboration with programmers and artists
+
+##### Systems design
+* Core gameplay loops
+* Game mechanics design
+* Progression systems
+* Economy and resource systems
+* Difficulty curves
+* Player motivation and retention
+* Reward structures
+* Risk/reward systems
+* Combat systems
+* Ability systems
+* Inventory and item systems
+* Quest and mission structures
+* Meta-game systems
+* Player choice and consequence
+* Balancing and iteration
+* Emergent gameplay design
 
 ##### Programming
 * C++
