@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Sassan Nourian's portfolio"
+title: "Sassan Nourian"
 author_profile: true
 redirect_from: 
   - /main/
   - /main.html
 ---
-
+### Technical & Systems designer
 Hello and thanks for visiting my portfolio!
 
 I'm a **technical and system designer**. My goal is to create engaging player experiences through meaningful mechanics. I believe in **elegant** design that achieves depth without unnecessary complexity.
