@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello and thank you for visiting my portfolio!
+Hello! Thanks for visiting my portfolio!
 
-My passion is **gameplay and systems design** where I create engaging player experiences through meaningful mechanics. I believe in elegant design where you can create depth without complexity.
+I'm a technical and system designer. My goal is to create engaging player experiences through meaningful mechanics. I believe in elegant design that achieves depth without unnecessary complexity.
 
-Beyond systems design, I have experience throughout the entire development process. My understanding of other disciplines allows me to write clear and concise GDDs, collaborate effectively with artists, programmers, and producers, and account for technical and creative constraints.
+I have a solid understanding of the entire development process and the disciplines involved, including project management, programming, art, marketing, sound design, and writing. This broad perspective allows me to write clear and concise GDDs, collaborate effectively with others, and account for technical and creative constraints.
 
-Plesae visit **[projects](projects)** section to see some of my work.
+Please visit the **[projects](projects)** section to see some of my work.
 
 
 
