@@ -3,16 +3,16 @@ title: "Devil dust"
 permalink: /personal-projects/devil-dust
 author_profile: true
 ---
----
-##### Genre: Twin stick shooter, arcade, adventure, 3D
-##### Team size: 2
-##### Duration: 1 week ( for stop killing game community jam)
-##### Released:  2026
-##### Platforms: Web browser/Windows
-##### My role: Game designer, Level designer, Programmer
-##### Tools: Godot, Microsoft office, Google suite, Trello
-##### Play: **[Browser/Windows](https://aethewn.itch.io/dust-devil)**
----
+
+**Genre:** Twin stick shooter, arcade, adventure, 3D  
+**Team size:** 2  
+**Duration:** 1 week ( for stop killing game community jam)  
+**Released:**  2026  
+**Platforms:** Web browser/Windows  
+**My role:** Game designer, Level designer, Programmer  
+**Tools:** Godot, Microsoft office, Google suite, Trello  
+**Play:** [Browser/Windows](https://aethewn.itch.io/dust-devil)
+
 # Overview
 ---
 <video width="720" height="480" controls>
