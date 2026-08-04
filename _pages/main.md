@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello and thanks for visiting my portfolio!
 
-I'm a **technical and system designer**. My goal is to create engaging player experiences through meaningful mechanics. I believe in **elegant** design that achieves depth without unnecessary complexity.
+I'm a **system and technical designer**. My goal is to create engaging player experiences through meaningful mechanics. I believe in **elegant** design that achieves depth without unnecessary complexity.
 
 Here's some of my work:
 
