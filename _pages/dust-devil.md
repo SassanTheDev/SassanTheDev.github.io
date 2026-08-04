@@ -13,8 +13,6 @@ author_profile: true
 **Tools:** Godot, Microsoft office, Google suite, Trello  
 **Play:** [Browser/Windows](https://aethewn.itch.io/dust-devil)
 
----
-
 # Overview
 
 <video width="720" height="480" controls>
@@ -29,8 +27,6 @@ Because the project was created within a one week game jam, the design focus was
 The final gameplay loop became:  
 **Explore the desert → engage enemies → survive encounters → achieve a higher score**
 
----
-
 # Design Goals
 
 The main design goals were:
@@ -38,8 +34,6 @@ The main design goals were:
 * Create responsive vehicle movement that feels enjoyable.
 * Build a recognizable desert environment with a retro arcade feeling.
 * Create enemy encounters that are easy to understand but require player awareness.
-
----
 
 # Responsibilities
 
@@ -52,8 +46,6 @@ My contributions included:
 * Implementing and adjusting vehicle movement.
 * Designing the AI (infantry & enemy vehicles)
 * Designing UI/UX elements such as health bar and timers.
-
----
 
 # Player Vehicle Design
 
@@ -83,8 +75,6 @@ Additional effects were added to improve player feedback:
 
 These changes improved the connection between player input and the game world, making movement feel more impactful.
 
----
-
 # Level Design
 
 ### Goal
@@ -107,8 +97,6 @@ Because of the limited jam timeline, I focused on efficient encounter placement 
 Enemies were distributed across the map in groups, allowing easier balancing and creating natural combat zones.
 
 This approach helped create variety in gameplay while keeping development manageable within the game jam deadline.
-
----
 
 # Enemy Design
 
@@ -144,8 +132,6 @@ Their behavior:
 
 The combination of stationary infantry threats and mobile vehicle threats created different combat situations without requiring complex AI systems.
 
----
-
 # Development Constraints & Solutions
 
 ### Constraint: Short development timeline
@@ -175,8 +161,6 @@ The project helped me develop practical experience in:
 * Iterating on player controls.
 * Balancing gameplay systems quickly.
 * Collaborating across design and programming responsibilities.
-
----
 
 # Key Takeaways
 
