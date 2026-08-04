@@ -71,4 +71,4 @@ I'm committed to continuous learning and refining my craft through iteration. I 
 * English (C1 level)
 * Japanese (N5 level)
 
-If you'd like a copy of my resume, you can [download it here](/files/Sassan%20Nourian%20Resume.pdf).
+If you'd like a copy of my resume, you can [download it here](/files/sassan-nourian-resume.pdf).
