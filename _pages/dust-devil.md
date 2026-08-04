@@ -36,11 +36,6 @@ The main design goals were:
 * Build a recognizable desert environment with a retro arcade feeling.
 * Create enemy encounters that are easy to understand but require player awareness.
 
-
-<video width="720" height="480" controls>
-  <source src="/images/dust-devil-trailer.mp4" type="video/mp4">
-</video>
-
 # Responsibilities
 ---
 
