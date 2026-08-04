@@ -16,9 +16,9 @@ I believe an elegant design is the one that avoids unnecessary complexity while 
 
 I'm committed to continuous learning and refining my craft through iteration. I approach every project as an opportunity to become a better designer.
 
-#### SKILLS
-
-##### Technical design
+# SKILLS
+---
+#### Technical design
 
 * Gameplay systems architecture
 * Feature specifications & technical design documents
@@ -35,7 +35,7 @@ I'm committed to continuous learning and refining my craft through iteration. I 
 * Debugging and optimization
 * Technical collaboration with programmers and artists
 
-##### Systems design
+#### Systems design
 * Core gameplay loops
 * Game mechanics design
 * Progression systems
@@ -53,17 +53,17 @@ I'm committed to continuous learning and refining my craft through iteration. I 
 * Balancing and iteration
 * Emergent gameplay design
 
-##### Programming
+#### Programming
 * C++
 * C#
 * GDscript (Godot scripting language)
 
-##### Frameworks & Libraries
+#### Frameworks & Libraries
 * SDL
 * Boost
 * STL
 
-##### Software & Technologies
+#### Software & Technologies
 * Unity
 * Godot
 * Git & GitHub
@@ -75,12 +75,12 @@ I'm committed to continuous learning and refining my craft through iteration. I 
 * Ableton
 * Visual Studio & Visual Studio Code
 
-##### Leadership & Collaboration
+#### Leadership & Collaboration
 * Agile development (scrum & kanban)
 * Analytic problem solving (Root cause, TRIZ etc...)
 * Vision holder & Team Catalyst
 
-##### Languages
+#### Languages
 * Persian (Native language)
 * English (C1 level)
 * Japanese (N5 level)
