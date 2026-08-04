@@ -1,19 +1,29 @@
 ---
 permalink: /
-title: "Sassan Nourian"
+title: 
 author_profile: true
 redirect_from: 
   - /main/
   - /main.html
 ---
-### Technical & Systems designer
 Hello and thanks for visiting my portfolio!
 
 I'm a **technical and system designer**. My goal is to create engaging player experiences through meaningful mechanics. I believe in **elegant** design that achieves depth without unnecessary complexity.
 
 I have a solid understanding of the entire development process and the disciplines involved, including project management, programming, art, marketing, sound design, and writing. This broad perspective allows me to write clear and concise GDDs, collaborate effectively with others, and account for technical and creative constraints.
 
-Please visit the **[projects](projects)** section to see some of my work.
+These are some of the projects I've worked on.
+Please click on each game title to see more details about them.
+
+# [Dust devil](/personal-projects/devil-dust)
+![Dust devil](/images/dust-devil-cover.png)
+
+Dust devil is a top-down twin stick shooter vehicular combat game set in the world of Dune and its deserts. Drive your car through the enemy territories and destroy them alongside their plans.
+
+# [Relay rush](/personal-projects/relay-rush)
+![Relay rush](/images/relay-rush-cover.png)
+
+Relay Rush is a 2D top-down puzzle adventure game set in a world devastated by interplanetary war. Play as C-55, a courier robot and deliver vital packages across dangerous territories, explore diverse tile-based zones, gather valuable resources, and overcome hazards and enemies on every mission. Upgrade your capabilities, take on greater challenges, and become the link that holds civilization together.
 
 
 
