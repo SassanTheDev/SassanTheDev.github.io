@@ -6,8 +6,8 @@ redirect_from:
   - /project
 ---
 
-These are some of the projects I've worked on.
-Please click on each game title to see more details about them.
+
+Please click on the game titles for more detail.
 
 # [Dust devil](/personal-projects/devil-dust)
 ![Dust devil](/images/dust-devil-cover.png)
