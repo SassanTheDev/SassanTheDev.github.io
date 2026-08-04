@@ -65,18 +65,18 @@ Let’s connect and build something extraordinary.
 ##### Programming
 * C++
 * C#
-* GDScript
+* GDscript (Godot scripting language)
 
 ##### Frameworks & Libraries
 * SDL
 * Boost
 * STL
 
-##### Softwares & Technologies
+##### Software & Technologies
 * Unity
 * Godot
-* Git
-* Makrdown
+* Git & GitHub
+* Markdown
 * Microsoft office
 * Trello
 * Photoshop
@@ -89,5 +89,9 @@ Let’s connect and build something extraordinary.
 * Analytic problem solving (Root cause, TRIZ etc...)
 * Vision holder & Team Catalyst
 
+##### Languages
+* Persian (Native language)
+* English (C1 level)
+* Japanese (N5 level)
 
 If you'd like a copy of my resume, you can [download it here](/files/Sassan%20Nourian%20Resume.pdf).
