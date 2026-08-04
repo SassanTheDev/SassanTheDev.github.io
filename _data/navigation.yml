@@ -28,8 +28,8 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "CV"
-    url: /cv/
+  - title: "About & Resume"
+    url: /about/
     
   # - title: "CV"
   #   url: /cv-json/
