@@ -20,38 +20,24 @@ I'm committed to continuous learning and refining my craft through iteration. I 
 ---
 #### Technical design
 
-* Gameplay systems architecture
-* Feature specifications & technical design documents
-* Rapid prototyping
+* Gameplay prototyping
 * Gameplay scripting
-* Player interaction systems
-* Ability and combat system implementation
-* State machines and behavior logic
+* Technical design documentation
+* Feature implementation
+* Systems architecture
 * AI behavior design
-* Tools and workflow design
-* Data-driven design
-* Balancing through playtesting and telemetry
-* Engine-side implementation (Unity/Godot)
-* Debugging and optimization
-* Technical collaboration with programmers and artists
+* Data-driven workflows
+* Engine integration
 
 #### Systems design
-* Core gameplay loops
-* Game mechanics design
-* Progression systems
-* Economy and resource systems
-* Difficulty curves
-* Player motivation and retention
-* Reward structures
-* Risk/reward systems
-* Combat systems
-* Ability systems
-* Inventory and item systems
-* Quest and mission structures
-* Meta-game systems
-* Player choice and consequence
-* Balancing and iteration
-* Emergent gameplay design
+* Core loops & mechanics
+* Progression design
+* Economy design
+* Combat design
+* Player motivation
+* Balancing & tuning
+* Emergent gameplay
+* Difficulty design
 
 #### Programming
 * C++
