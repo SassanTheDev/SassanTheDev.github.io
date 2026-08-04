@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sassan Nourian - Technical designer | System designer"
+title                    : "Sassan Nourian - Game designer"
 title_separator          : "-"
 name                     : &name "Sassan Nourian"
 description              : &description "Sassan Nourian's portfolio (Game designer)"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Sassan Nourian"
   pronouns         : "he/him"
-  bio              : "Game designer"
+  bio              : "Technical designer | System designer"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
