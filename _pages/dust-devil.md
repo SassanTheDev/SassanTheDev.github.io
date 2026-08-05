@@ -4,10 +4,6 @@ permalink: /personal-projects/devil-dust
 author_profile: true
 ---
 
-# Overview
-
----
-
 <video width="720" height="480" controls>
   <source src="/images/dust-devil-trailer.mp4" type="video/mp4">
 </video>
