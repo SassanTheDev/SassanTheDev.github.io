@@ -8,6 +8,7 @@ redirect_from:
 # [Dust devil](/personal-projects/devil-dust)
 ![Dust devil](/images/dust-devil-cover.png)
 
+**Title:** Designing the player vehicle, enemy vehicle, infantry AI, UI, and desert level in a twin-stick shooter game  
 **Genre:** Twin stick shooter, arcade, adventure, 3D  
 **Duration:** 1 week ( for stop killing game community jam)  
 **Role:** Game designer, Level designer, Programmer  
