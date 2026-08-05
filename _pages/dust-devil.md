@@ -1,17 +1,8 @@
 ---
-title: "Devil dust"
+title: "Dust devil"
 permalink: /personal-projects/devil-dust
 author_profile: true
 ---
-
-**Genre:** Twin stick shooter, arcade, adventure, 3D  
-**Team size:** 2  
-**Duration:** 1 week ( for stop killing game community jam)  
-**Released:**  2026  
-**Platforms:** Web browser/Windows  
-**My role:** Game designer, Level designer, Programmer  
-**Tools:** Godot, Microsoft office, Google suite, Trello  
-**Play:** [Browser/Windows](https://aethewn.itch.io/dust-devil)
 
 # Overview
 
@@ -20,24 +11,16 @@ author_profile: true
 <video width="720" height="480" controls>
   <source src="/images/dust-devil-trailer.mp4" type="video/mp4">
 </video>
-Dust Devil is a 3D twin-stick shooter inspired by desert science-fiction worlds such as *Dune* and classic retro arcade shooters.
 
-The goal of the project was to create an easy to learn game that engages the player from the beginning and then new challenges will be emerged later. This requires that players immediately understand the controls while still having opportunities to improve their performance through movement, positioning, and combat decisions.
-
-Because the project was created within a one week game jam, the design focus was on creating a strong core gameplay loop rather than building a large amount of content.
-
-The final gameplay loop became:  
-**Explore the desert → engage enemies → survive encounters → achieve a higher score**
-
-# Design Goals
-
----
-
-The main design goals were:
-
-* Create responsive vehicle movement that feels enjoyable.
-* Build a recognizable desert environment with a retro arcade feeling.
-* Create enemy encounters that are easy to understand but require player awareness.
+**Genre:** Twin stick shooter, arcade, adventure, 3D  
+**Team size:** 2  
+**Duration:** 1 week ( for stop killing game community jam)  
+**Release date:** July 2026  
+**Platforms:** Web browser/Windows  
+**Roels:** Game designer, Level designer, Programmer  
+**Tools:** Godot 4, Microsoft office, Google suite, Trello  
+**Play:** [Browser/Windows](https://aethewn.itch.io/dust-devil)  
+**Description:** Dust Devil is a 3D twin-stick shooter inspired by desert science-fiction worlds such as *Dune* and classic retro arcade shooters.  
 
 # Responsibilities
 
@@ -45,19 +28,17 @@ The main design goals were:
 
 My contributions included:
 
-* Designing core gameplay mechanics.
-* Designing and balancing the level layout.
+* Designing vehicle navigation system.
+* Designing infantry enemy.
+* Designing enemy vehicle.
+* Designing UI/UX elements.
+* Designing the desert level.
 * Creating and maintaining the Game Design Document.
 * Programming gameplay systems.
-* Implementing and adjusting vehicle movement.
-* Designing the AI (infantry & enemy vehicles)
-* Designing UI/UX elements such as health bar and timers.
 
-# Player Vehicle Design
+# Vehicle navigation system
 
-## Challenge
-
-The biggest design challenge was creating vehicle movement that felt satisfying.
+## Design Goals
 
 Since the game is built around driving across large desert dunes, movement quality directly affected the entire player experience. A vehicle that felt too heavy would make combat frustrating, while a vehicle that was too loose would reduce player control.
 
@@ -68,11 +49,18 @@ The goal was to create a vehicle that:
 * Made jumping over dunes feel rewarding and satisfying.
 * Supported fast arcade style gameplay.
 
+## Exploring solutions
+
+Because of the short development timeline, instead of creating a vehicle physics system from scratch, I searched and found a free plugin called "Easy vehicle physics".
+
+I tested all available car models but none of them met our desired results. They weren't responsive enough, drifting didn't feel enjoyable, jumping off the dunes felt heavy. I realized that if I adjusted the vehicle behavior to better match an arcade experience, we can still use this plugin and achieve the desired result and save ourselves a lot of time.
+
+## Designing the new navigation system spreadsheet
+
+Through many iterations I found the correct 
+![vehicle navigation system spreadsheet](/images/dust-devil/vehicle-navigation-system-spreadsheet.png)
+
 ## Implementation
-
-Due to the one week development timeline, we used a Godot vehicle plugin as a foundation and modified it to fit our gameplay needs.
-
-I adjusted the vehicle behavior to better match an arcade experience rather than a realistic driving simulation.
 
 Additional effects were added to improve player feedback:
 
@@ -177,3 +165,22 @@ Dust Devil reinforced the importance of player feel in action games.
 Through this project, I learned that small details such as vehicle responsiveness, visual feedback, and movement effects can significantly impact player enjoyment (and the cat model because everyone was mentioning it).
 
 Working within the game jam environment also improved my ability to prioritize features, communicate design decisions, and focus development effort on the elements that create the strongest player experience.
+
+
+
+
+
+
+
+
+
+The goal of the project was to create an easy to learn game that engages the player from the beginning and then new challenges will be emerged later. This requires that players immediately understand the controls while still having opportunities to improve their performance through movement, positioning, and combat decisions.
+
+Because the project was created within a one week game jam, the design focus was on creating a strong core gameplay loop rather than building a large amount of content.
+
+The final gameplay loop became:  
+**Explore the desert → engage enemies → survive encounters → achieve a higher score**
+
+
+* Build a recognizable desert environment with a retro arcade feeling.
+* Create enemy encounters that are easy to understand but require player awareness.
