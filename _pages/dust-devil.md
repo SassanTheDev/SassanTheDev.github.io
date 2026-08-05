@@ -24,8 +24,8 @@ author_profile: true
 My contributions included:
 
 * Designing vehicle navigation system.
-* Designing infantry enemy.
 * Designing enemy vehicle.
+* Designing infantry enemy.
 * Designing UI/UX elements.
 * Designing the desert level.
 * Creating and maintaining the Game Design Document.
@@ -50,13 +50,13 @@ Because of the short development timeline, instead of creating a vehicle physics
 
 I tested all available car models but none of them met our desired results. They weren't responsive enough, drifting didn't feel enjoyable, jumping off the dunes felt heavy. I realized that if I adjusted the vehicle behavior to better match an arcade experience, we can still use this plugin and achieve the desired result and save ourselves a lot of time.
 
+![vehicle navigation balance editor](/images/dust-devil/vehicle-navigation-system-balance-editor.png)
+
 ## Designing and balancing new navigation system
 
 By looking at famous twin stick shooter games such as PAKO 2, and through iteration by tweaking differnt variables I found the best values for each one:
 
-![vehicle-navigation-balance-spreadsheet](/images/dust-devil/vehicle-navigation-system-balance-spreadsheet.png)
-
-![vehicle-navigation-balance-editor](/images/dust-devil/vehicle-navigation-system-balance-editor.png)
+![vehicle navigation balance spreadsheet](/images/dust-devil/vehicle-navigation-system-balance-spreadsheet.png)
 
 Additional effects were added to improve player feedback:
 
@@ -172,13 +172,8 @@ Working within the game jam environment also improved my ability to prioritize f
 
 
 
-The goal of the project was to create an easy to learn game that engages the player from the beginning and then new challenges will be emerged later. This requires that players immediately understand the controls while still having opportunities to improve their performance through movement, positioning, and combat decisions.
 
 Because the project was created within a one week game jam, the design focus was on creating a strong core gameplay loop rather than building a large amount of content.
 
 The final gameplay loop became:  
 **Explore the desert → engage enemies → survive encounters → achieve a higher score**
-
-
-* Build a recognizable desert environment with a retro arcade feeling.
-* Create enemy encounters that are easy to understand but require player awareness.
