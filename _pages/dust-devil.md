@@ -3,7 +3,6 @@ title: "Dust devil"
 permalink: /personal-projects/devil-dust
 author_profile: true
 ---
-
 <video width="720" height="480" controls>
   <source src="/images/dust-devil-trailer.mp4" type="video/mp4">
 </video>
@@ -51,17 +50,20 @@ Because of the short development timeline, instead of creating a vehicle physics
 
 I tested all available car models but none of them met our desired results. They weren't responsive enough, drifting didn't feel enjoyable, jumping off the dunes felt heavy. I realized that if I adjusted the vehicle behavior to better match an arcade experience, we can still use this plugin and achieve the desired result and save ourselves a lot of time.
 
-## Designing the new navigation system spreadsheet
+## Designing and balancing new navigation system
 
-Through many iterations I found the correct 
-![vehicle navigation system spreadsheet](/images/dust-devil/vehicle-navigation-system-spreadsheet.png)
+By looking at famous twin stick shooter games such as PAKO 2, and through iteration by tweaking differnt variables I found the best values for each one:
 
-## Implementation
+![vehicle-navigation-balance-spreadsheet](/images/dust-devil/vehicle-navigation-system-balance-spreadsheet.png)
+
+![vehicle-navigation-balance-editor](/images/dust-devil/vehicle-navigation-system-balance-editor.png)
 
 Additional effects were added to improve player feedback:
 
 * Tire trail shaders were implemented to leave visible marks across the dunes.
 * Visual feedback helped reinforce the feeling of speed and interaction with the environment.
+
+## Results
 
 These changes improved the connection between player input and the game world, making movement feel more impactful.
 
