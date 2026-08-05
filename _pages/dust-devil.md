@@ -33,7 +33,9 @@ My contributions included:
 
 # Vehicle navigation system
 
-## Design Goals
+---
+
+### Design Goals
 
 Since the game is built around driving across large desert dunes, movement quality directly affected the entire player experience. A vehicle that felt too heavy would make combat frustrating, while a vehicle that was too loose would reduce player control.
 
@@ -44,7 +46,7 @@ The goal was to create a vehicle that:
 * Made jumping over dunes feel rewarding and satisfying.
 * Supported fast arcade style gameplay.
 
-## Exploring solutions
+### Exploring solutions
 
 Because of the short development timeline, instead of creating a vehicle physics system from scratch, I searched and found a free plugin called "Easy vehicle physics".
 
@@ -52,7 +54,7 @@ I tested all available car models but none of them met our desired results. They
 
 ![vehicle navigation balance editor](/images/dust-devil/vehicle-navigation-system-balance-editor.png)
 
-## Designing and balancing new navigation system
+### Designing and balancing new navigation system
 
 By looking at famous twin stick shooter games such as PAKO 2, and through iteration by tweaking differnt variables I found the best values for each one:
 
@@ -63,7 +65,7 @@ Additional effects were added to improve player feedback:
 * Tire trail shaders were implemented to leave visible marks across the dunes.
 * Visual feedback helped reinforce the feeling of speed and interaction with the environment.
 
-## Results
+### Results
 
 These changes improved the connection between player input and the game world, making movement feel more impactful.
 
